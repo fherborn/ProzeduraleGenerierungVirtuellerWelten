@@ -1,0 +1,23 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/HouseVZ.cs">
+    <Files>
+      <File FileName="Assets/Scripts/House.cs" Line="319" Column="146" />
+      <File FileName="Assets/Scripts/HouseEditor.cs" Line="183" Column="50" />
+      <File FileName="Assets/Scripts/AdvancedHouseGenerator.cs" Line="468" Column="82" />
+      <File FileName="Assets/Scripts/StairsGenerator.cs" Line="6" Column="1" />
+      <File FileName="Assets/Scripts/Tread.cs" Line="35" Column="15" />
+      <File FileName="Assets/Scripts/HouseData.cs" Line="9" Column="22" />
+      <File FileName="Assets/Scripts/FloorPlan.cs" Line="19" Column="35" />
+      <File FileName="Assets/Scripts/Point2DTupel.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Point2D.cs" Line="15" Column="36" />
+      <File FileName="Assets/Scripts/RoomPair.cs" Line="6" Column="45" />
+      <File FileName="Assets/Scripts/VZEditor.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/HouseVZ.cs" Line="21" Column="58" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
